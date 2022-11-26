@@ -14,6 +14,7 @@ function Header() {
             objectPosition="left"
             className=''
             priority='true'
+            alt=''
             />
     
         </div>
