@@ -71,7 +71,7 @@ function Search({searchResults}) {
                 </div>
             </section>
             <section className='hideen xl:inline-flex xl:min-w-[600px] flex-grow relative  '>
-                <div className='static' >
+                <div className='sticky' >
                 <MapWithNoSSR searchResults={searchResults}/>
                 
                 </div>
